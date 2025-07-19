@@ -1,0 +1,20 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.class
+
+# Data and large generated files
+/data/
+/hf_cache/
+/models/
+*.pkl
+*.bin
+*.csv
+
+# Streamlit specific
+.streamlit/
