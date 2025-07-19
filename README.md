@@ -26,7 +26,7 @@ MedQuery-RAG is an end-to-end demonstration of a modern, production-grade AI sys
 
 ## 💻 Tech Stack
 
-*   **Core LLM:** `meta-llama/Llama-3-8B-Instruct`
+*   **Core LLM:** `meta-llama/Llama-3.1-8B-Instruct`
 *   **Inference Engine:** `vLLM`
 *   **Embedding Model:** `BAAI/bge-large-en-v1.5`
 *   **Vector Store:** `FAISS`
