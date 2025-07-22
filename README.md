@@ -1,4 +1,4 @@
-# 🩺 MedQuery-RAG: An S-Tier AI Engineering Showcase
+# 🩺 MedQuery-RAG
 
 ![MedQuery-RAG Demo GIF](URL_TO_YOUR_DEMO_GIF_HERE)
 
