@@ -1,7 +1,5 @@
 # 🩺 MedQuery-RAG
 
-![MedQuery-RAG Demo GIF](URL_TO_YOUR_DEMO_GIF_HERE)
-
 ## 🚀 Mission
 
 MedQuery-RAG is an end-to-end demonstration of a modern, production-grade AI system. It's designed to be a secure, verifiable, and high-performance knowledge engine that answers complex medical questions by reasoning over a private knowledge base, built entirely with open-source tools.
